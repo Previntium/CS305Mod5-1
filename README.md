@@ -4,3 +4,5 @@ For this project, I am creating a mobile phone game. I would like this game to b
 
 ## Details of game
 The goal is to launch this on ios.
+
+#I would like to add a facebook connectivity module to this project.
